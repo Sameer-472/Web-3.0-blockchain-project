@@ -1,8 +1,8 @@
 # Web-3.0-blockchain-project
 
-😃 Hi there </br>
+ Hi there 😃 </br>
 
-😃 this is the first blockchain project i ever build </br>
+this is the first blockchain project i ever build 😃 </br>
 
 <h3> Tools and Technologies while building this project </h3> </br>
 
