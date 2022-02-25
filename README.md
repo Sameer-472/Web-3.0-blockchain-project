@@ -4,5 +4,8 @@
 
 😃 this is the first blockchain project i ever build </br>
 
-<h1> Technologies used in this project </h1>
+<h3> Technologies used in this project </h3> </br>
+
+⚡ <b> React </b>
+⚡ 
 
